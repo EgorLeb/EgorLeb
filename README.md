@@ -1,1 +1,1 @@
-![Header](https://github.com/EgorLeb/EgorLeb/blob/main/egorlebedev.jpg)
+![](https://github.com/EgorLeb/EgorLeb/blob/main/egorlebedev.jpg)
