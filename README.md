@@ -25,7 +25,7 @@
 <img width="50" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/javascript-logo.png">
 </div>
 
-### My projects
+<!-- ### My projects -->
 
 
 ### Contacts
