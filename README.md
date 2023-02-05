@@ -21,7 +21,7 @@
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/4846343.png">
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/C%2B%2B.png">
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/%D0%A1.png">
-<img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/jaja.png">
+<img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/java.png">
 </div>
 <!-- <img weight="100%" src="https://github.com/EgorLeb/EgorLeb/blob/main/%D0%A1%2B%2B.png"> -->
 ### My projects
