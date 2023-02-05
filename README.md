@@ -23,9 +23,10 @@
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/%D0%A1.png">
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/java-logo-1.png">
 </div>
-<!-- <img weight="100%" src="https://github.com/EgorLeb/EgorLeb/blob/main/%D0%A1%2B%2B.png"> -->
+
 ### My projects
-*
+
+
 ### Contacts
 * Telegram - @egorled
 * mail - egor28476@gmail.com
