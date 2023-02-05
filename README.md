@@ -11,7 +11,11 @@
 
 
 ### What do I know?
-![saaa](https://img.shields.io/badge/-Python-#000)
+* Python (my main language, I write a lot of program with it and teach my students)
+* C++
+* C
+* Java
+* JavaScript
 
 
 ### Contacts
