@@ -22,7 +22,7 @@
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/C%2B%2B.png">
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/%D0%A1.png">
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/java-logo-1.png">
-<img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/javascript-logo.png">
+<img width="50" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/javascript-logo.png">
 </div>
 
 ### My projects
