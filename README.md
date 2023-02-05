@@ -18,6 +18,8 @@
 * JavaScript (I studied this together with HTML and SCC for front-end development)
 * Pascal (it was in Shcool;))
 
+### My projects
+* 
 
 ### Contacts
 * Telegram - @egorled
