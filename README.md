@@ -17,9 +17,10 @@
 * Java (I know it from my education in IU)
 * JavaScript (I studied this together with HTML and SCC for front-end development)
 * Pascal (it was in Shcool;))
+<div display: inline-block>
 <img width="100" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/%D0%A1.png">
 <img width="100" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/C%2B%2B.png">
-
+</div>
 <!-- <img weight="100%" src="https://github.com/EgorLeb/EgorLeb/blob/main/%D0%A1%2B%2B.png"> -->
 ### My projects
 *
