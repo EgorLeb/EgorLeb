@@ -16,7 +16,7 @@
 * C (I know it from my education in IU)
 * Java (I know it from my education in IU)
 * JavaScript (I studied this together with HTML and SCC for front-end development)
-* Pascal (it was in Shcool;))
+* Pascal (it was in School;))
 <div display: inline-block>
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/4846343.png">
 <img width="60" float="left" src="https://github.com/EgorLeb/EgorLeb/blob/main/C%2B%2B.png">
