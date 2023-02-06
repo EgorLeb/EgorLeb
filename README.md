@@ -11,8 +11,8 @@
 * I am involved in contests and selection for internships. I trying to get settled in IT Company, it's my dream.
 
 ### What do I know?
-* Python (my main language, I write a lot of program with it and teach children)
-* C++ (I use it for hard tascks on contests and for teaching children and students)
+* Python (my main language, I write a lot of programs with it and teach children)
+* C++ (I use it for hard tasks on contests and for teaching children and students)
 * C (I know it from my education in IU)
 * Java (I know it from my education in IU)
 * JavaScript (I studied this together with HTML and SCC for front-end development)
