@@ -8,7 +8,7 @@
 
 ### What am I doing now?
 * I am doing my own course on Stepik. Informatics GCSE (https://stepik.org/lesson/872174).
-* I am involved in contests and selection for internships. I trying to get settled in IT Company, it's my dream.
+* I am involved in contests and selection for internships. I trying to get settled in IT Company. I want to progress in this vector.
 
 ### What do I know?
 * Python (my main language, I write a lot of programs with it and teach children)
