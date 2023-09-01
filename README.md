@@ -5,6 +5,7 @@
 </p>
 
 ### Hello everyone! I am a computer science tutor and a student at Innopolis University. 
+### Below you can see the projects where I participated as a developer.
 
 ### What am I doing now?
 * I am doing my own course on Stepik. Informatics GCSE (https://stepik.org/lesson/872174).
