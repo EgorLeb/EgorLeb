@@ -14,7 +14,7 @@
 * Python (my main language, I write a lot of programs with it and teach children)
 * C++ (I use it for hard tasks on contests and for teaching children and students)
 * C (I know it from my education in IU)
-* Java (I know it from my education in IU)
+* Java (I know it from my education in IU and I learn it for back-end)
 * JavaScript (I studied this together with HTML and SCC for front-end development)
 * Pascal (it was in School;))
 <div display: inline-block>
