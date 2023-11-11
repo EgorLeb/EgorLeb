@@ -32,3 +32,6 @@
 ### Contacts
 * Telegram - @egorled
 * mail - egor28476@gmail.com
+
+
+# Подробнее в русскоязычном резюме: 
