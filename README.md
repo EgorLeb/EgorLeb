@@ -4,7 +4,7 @@
 
 </p>
 
-### Hello everyone! I am a computer science tutor and a student at Innopolis University. 
+### Привет всем! Меня зовут Егор Лебедев.
 ### Below you can see the projects where I participated as a developer.
 
 ### What am I doing now?
@@ -35,4 +35,4 @@
 
 
 # Подробнее в русскоязычном резюме: 
-[https://github.com/EgorLeb/Resume/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf](https://github.com/EgorLeb/Resume/blob/main/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20v2.0.pdf)
+[Посмотреть резюме](https://github.com/EgorLeb/Resume/blob/main/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20v2.0.pdf)
