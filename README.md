@@ -12,13 +12,22 @@
 ### Python
 * #### FastApi: 
   [PMLDL](https://github.com/EgorLeb/PMLDL)
-* #### Flask:   
+* #### Flask:
+  [Busy_tutor](https://github.com/EgorLeb/Busy_tutor/tree/backend)
 * #### Streamlit: 
   [PMLDL](https://github.com/EgorLeb/PMLDL)
 * #### Docker, Docker-compose: 
   [PMLDL](https://github.com/EgorLeb/PMLDL)
-
-
+  [FindRecipe](https://github.com/IU-Capstone-Project-2024/FindRecipe/tree/main)
+* #### Google API
+  [Busy_tutor](https://github.com/EgorLeb/Busy_tutor/tree/backend)
+* #### SQL
+  [Busy_tutor](https://github.com/EgorLeb/Busy_tutor/tree/backend)
+* #### MongoDB
+  [FindRecipe](https://github.com/IU-Capstone-Project-2024/FindRecipe/tree/main)
+* #### TeleBot
+  [FindRecipe](https://github.com/IU-Capstone-Project-2024/FindRecipe/tree/main)
+  
 ### Контакты
 * Telegram - @egorled
 * mail - egor28476@gmail.com
