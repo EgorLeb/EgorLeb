@@ -10,7 +10,7 @@
 ## Навигация по проектам и примененным инструментам: 
 
 ### Python
-знаком с языком с 2020 года, программирую на нем основные проекты, пишу кантесты и олемпиады.
+Знаком с языком с 2020 года, программирую на нем основные проекты, пишу кантесты и олемпиады.
 * #### FastApi: 
   [PMLDL](https://github.com/EgorLeb/PMLDL)
 * #### Flask:
@@ -37,7 +37,10 @@
   [FindRecipe](https://github.com/IU-Capstone-Project-2024/FindRecipe/tree/main)
 * #### Алгоритмы
   [iu_timetable_scheduler_](https://github.com/EgorLeb/iu_timetable_scheduler_/tree/main)
-  
+
+### C, C++, Java, Scala, Go
+Знаю синтаксисы и немного семантики языков. Посал проекты на каждом из них.
+
 ### Контакты
 * Telegram - [@egorled](https://t.me/Egorled)
 * mail - egor28476@gmail.com
