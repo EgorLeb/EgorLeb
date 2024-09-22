@@ -29,5 +29,5 @@
   [FindRecipe](https://github.com/IU-Capstone-Project-2024/FindRecipe/tree/main)
   
 ### Контакты
-* Telegram - @egorled
+* Telegram - [@egorled](https://t.me/Egorled)
 * mail - egor28476@gmail.com
