@@ -8,15 +8,14 @@
 #### Ниже на странице есть ссылка на свежее резюме
 
 ## Навигация по проектам: 
-## Python
-### FastApi: 
-[PMLDL](https://github.com/EgorLeb/PMLDL)
-[PMLDL](https://github.com/EgorLeb/PMLDL)
-### Flask:   
-### Streamlit: 
-[PMLDL](https://github.com/EgorLeb/PMLDL)
-### Docker, Docker-compose: 
-[PMLDL](https://github.com/EgorLeb/PMLDL)
+* ## Python
+* * ### FastApi: 
+* * * [PMLDL](https://github.com/EgorLeb/PMLDL)
+* * ### Flask:   
+* * ### Streamlit: 
+* * * [PMLDL](https://github.com/EgorLeb/PMLDL)
+* * ### Docker, Docker-compose: 
+* * *[PMLDL](https://github.com/EgorLeb/PMLDL)
 
 
 ### Contacts
