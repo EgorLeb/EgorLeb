@@ -38,4 +38,4 @@
   
 ### Контакты
 * Telegram - [@egorled](https://t.me/Egorled)
-* mail - egor28476@gmail.com
+* email - egor28476@gmail.com
