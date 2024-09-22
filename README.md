@@ -19,6 +19,6 @@
   [PMLDL](https://github.com/EgorLeb/PMLDL)
 
 
-### Contacts
+### Контакты
 * Telegram - @egorled
 * mail - egor28476@gmail.com
