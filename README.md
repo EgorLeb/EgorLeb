@@ -9,13 +9,13 @@
 
 ## Навигация по проектам: 
 * ## Python
-* * ### FastApi: 
-* * * [PMLDL](https://github.com/EgorLeb/PMLDL)
-* * ### Flask:   
-* * ### Streamlit: 
-* * * [PMLDL](https://github.com/EgorLeb/PMLDL)
-* * ### Docker, Docker-compose: 
-* * *[PMLDL](https://github.com/EgorLeb/PMLDL)
+- ### FastApi: 
+~ [PMLDL](https://github.com/EgorLeb/PMLDL)
+- ### Flask:   
+~ ### Streamlit: 
+- [PMLDL](https://github.com/EgorLeb/PMLDL)
+~ ### Docker, Docker-compose: 
+- [PMLDL](https://github.com/EgorLeb/PMLDL)
 
 
 ### Contacts
