@@ -6,6 +6,8 @@
 
 ### [Моё резюме](https://github.com/EgorLeb/Resume/blob/main/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20v2.0.pdf)
 
+### [Достижения(Дипломы)](https://github.com/EgorLeb/diplomas/blob/main/README.md)
+
 ## Навигация по проектам и примененным инструментам: 
 
 ### Python
